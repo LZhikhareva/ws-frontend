@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wsl2j20d2scd5dm7?svg=true)](https://ci.appveyor.com/project/Anya9999222/ws-front)
